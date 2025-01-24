@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christopherGruendell
-- 👀 I’m interested in 
-- 🌱 I’m currently learning CSIS 1410 Object Oriented Programming.
+- 👀 I’m interested in open-source software
+- 🌱 I’m currently a CS major at the University of Utah
 - 💞️ I’m looking to collaborate on (Open-Source Software)
 - 📫 How to reach me: Christopher.Gruendell@gmail.com
 
