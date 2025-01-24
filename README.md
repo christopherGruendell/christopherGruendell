@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @christopherGruendell
-- 👀 I’m interested in open-source software
+- 👋 Hi, I’m @christopherGruendell.
+- 👀 I’m interested in open-source software, .NET development, Java Development, and game development. 
 - 🌱 I’m currently a CS major at the University of Utah
-- 💞️ I’m looking to collaborate on (Open-Source Software)
+- 💞️ I’m looking to collaborate on open-source software
 - 📫 How to reach me: Christopher.Gruendell@gmail.com
 
 <!---
